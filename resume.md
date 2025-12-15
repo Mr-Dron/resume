@@ -1,8 +1,7 @@
 # Русакович Сергей
 
 **Python Backend Developer (Junior / Junior+)**
-
-📍 Россия  
+ 
 📫 **Email:** rusakovich_2000@mail.ru  
 💬 **Telegram:** @Rusya352  
 💻 **GitHub:** https://github.com/Mr-Dron  
